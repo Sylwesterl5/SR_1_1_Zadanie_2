@@ -12,5 +12,6 @@ if(Number.isInteger(getDigit)){
         console.log("liczba nie znajduje się w zakresie od 1 do 10");
     }
 }else {
-    console.log("podany znak nie jest liczbą");
-}
+    console.log("podany znak nie jest liczbą")
+    }
+
