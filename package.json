@@ -1,0 +1,19 @@
+{
+  "name": "1.1.zadanie_2",
+  "version": "1.0.0",
+  "description": "losowanie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sylwesterl5/SR_1_1_Zadanie_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sylwesterl5/SR_1_1_Zadanie_2/issues"
+  },
+  "homepage": "https://github.com/Sylwesterl5/SR_1_1_Zadanie_2#readme"
+}
